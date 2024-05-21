@@ -18,8 +18,8 @@ Make sure you isntall OLLAma and the desired model before proceeding. use https:
 ### 1. Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY_NAME.git
-cd REPOSITORY_NAME
+git clone https://github.com/abdoolamunir/simple_langchain_bot-2-.git
+cd simple_langchain_bot-2-
 ```
 
 ### 2. Create a Virtual Environment
